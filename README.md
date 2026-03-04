@@ -6,7 +6,7 @@
 
 <p align=center>
   <div align=center>
-       <img align="left" width=900 src="https://github-readme-activity-graph.vercel.app/graph?username=BrandonFilth&theme=high-contrast"/>
+       <img align="left" width=900 src="https://github-readme-activity-graph.vercel.app/graph?username=BrandonFilth&theme=github-compact"/>
     <!--
       <img align="left" width=900 src="https://streak-stats.demolab.com/?user=BrandonFilth&theme=chartreuse-dark&hide_border=true" alt="Brandon Filth" />
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=BrandonFilth&show_icons=true&theme=chartreuse-dark&commits_year=2025&show=prs_merged&hide=issues&hide_border=true" />
